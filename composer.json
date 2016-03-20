@@ -1,6 +1,7 @@
 {
     "name": "cryptixcoder/marketplace",
-    "description": "Adding marketplace functionality to user"
+    "description": "Adding marketplace functionality to user",
+   	"license" : "MIT",
     "authors": [
         {
             "name": "Markus  Gray",
