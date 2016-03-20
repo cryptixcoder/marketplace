@@ -1,0 +1,11 @@
+{
+    "name": "cryptixcoder/marketplace",
+    "description": "Adding marketplace functionality to user"
+    "authors": [
+        {
+            "name": "Markus  Gray",
+            "email": "syncwarellc@gmail.com"
+        }
+    ],
+    "require": {}
+}
