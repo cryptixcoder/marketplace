@@ -109,4 +109,12 @@ trait Marketplace{
 
 		return true;
 	}
+
+	public function hasAccount(){
+		if($this->stripe_account_id){
+			return true;
+		}
+
+		return false;
+	}
 }
